@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial'
+    , sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    }
+
+
+    .container {
+    max-width: 800px;
+
+    /* 50px space above and below
+    auto centers the container horizontally */
+    margin: 50px auto;
+
+
+    padding: 20px;
+    background-color: #fff;
+
+    /* rounding the corners */
+    border-radius: 8px;
+
+    /* adding a subtle shadow around the container */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    form {
+    margin-bottom: 20px;
+    }
